@@ -1,0 +1,25 @@
+---
+author: Annie Proulx
+categories:
+- Truyện Ngắn - Ngôn Tình
+description: Chuyện Tình Núi Brokeback
+download_links:
+- info: mobi
+  url: https://sachvui.com/download/mobi/2096
+- info: epub
+  url: https://sachvui.com/download/epub/2097
+image: https://sachvui.com/cover/2015/chuyen-tinh-nui-brokeback.jpg
+layout: post
+permalink: /chuyen-tinh-nui-brokeback.html
+tags:
+- tải sách miễn phí
+- tải sách nhanh
+- tải ebooks miễn phí
+- pdf miễn phí
+- Chuyện Tình Núi Brokeback ebook
+- Chuyện Tình Núi Brokeback pdf
+thumbnail_url: https://sachvui.com/cover/2015/chuyen-tinh-nui-brokeback.jpg
+title: Chuyện Tình Núi Brokeback
+---
+
+ <div class="item-desc text-justify"> <p> “… - Tao đã muốn có đứa con trai,” Ennis vừa nói vừa cởi cúc, “nhưng chỉ có con gái.”</p><p>“Tao chẳng muốn trai hay gái,” Jack nói. “Nhưng tao đếch làm được cái gì. Hổng cái gì tới tay tao cho ra hồn.” Không đứng dậy, gã ném củi vào lửa, những lời chân thật và giả dối của họ bay lên theo tàn lửa, vài đốm lửa nóng rơi trên tay và mặt họ, không phải lần đầu, và họ lăn ra đất. Một điều không bao giờ thay đổi: rung cảm rạng rở trong những lần gặp hiếm hoi của họ đã bị vẩn đục vì nhận biết thời gian đang trôi qua, không bao giờ đủ thời gian, không bao giờ đủ.</p><p>Một hai ngày sau trên bãi đậu xe ở đầu đường mòn, ngựa đã đưa lên toa moóc, Ennis sẵn sàng trở về Signal, Jack lên Lightning Flat thăm ông già. Ennis cúi vào cửa kính xe Jack, nói điều hắn đã né tránh cả tuần, rằng chắc hắn không thể đi được trước tháng Mười một, sau khi họ đã gửi gia súc đi và trước kỳ cho thú ăn mùa đông.</p><p>“Tháng Mười một. Còn tháng Tám trời đánh thì sao?</p><p>Nói mày nghe, mình đã nói là tháng Tám, chín mười ngày. Chúa ơi, Ennis! Sao mày không nói trước cho tao? Mày có cả một tuần khốn kiếp để nói mấy lời. Và tại sao mình cứ phải ở trong cái thời tiết lạnh đóng đá? Mình phải làm gì đó? Mình phải xuống phía Nam. Một ngày nào đó mình phải đi Mêxico.”</p><p>“Mêxico? Nè Jack, mày biết tao mà. Xưa nay tao chỉ đi vòng quanh ấm cà phê kiếm cái quai ấm. Và tao sẽ chạy máy đóng kiện rơm suốt tháng Tám, vấn đề của tháng Tám là như vậy. Bớt nhăn nhó đi Jack. Mình có thể đi săn tháng Mười một, bắn một con nai khá. Để tao thử mượn căn cabin của Don Wroe lần nữa. Năm đó mình vui quá.”</p><p>“Mày biết không, bạn, đây là một tình huống không đẹp chó đẻ. Hồi trước mày bỏ đi dễ dàng. Giờ thì giống như gặp đức giáo hoàng.”</p><p>“Jack, tao phải làm việc. Hồi trước tao hay bỏ việc. Mày có vợ giàu, việc tốt. Mày quên chuyện túng thiếu quanh năm là làm sao. Mày có bao giờ nghe tới cấp dưỡng nuôi con chưa? Tao đã trả bao nhiêu năm rồi và còn phải trả dài dài. Để tao nói cho mày nghe, tao không bỏ việc này được. Và tao không thể có ngày nghỉ. Lần này khó - mấy con bò cái tơ còn đang sinh trễ. Mày không bỏ tụi nó được. Mày đẩu bỏ được. Stoutamire là thằng to miệng, hắn đã làm trời làm đất về chuyện tao nghỉ một tuần. Tao không trách hắn. Có lẽ hắn khỏi ngủ đêm nào từ hôm tao đi. Đổi lại là tháng Tám tao không nghỉ. Mày có ý kiến nào hay hơn không?”</p><p>“Tao đã có lần có.” Giọng cay đắng và trách cứ.</p><p>Ennis không nói, chậm rãi đứng thẳng dậy, xoa trán; một con ngựa giậm chân trong toa kéo. Hắn bước tới xe tải của hắn, đặt tay lên toa kéo, nói điều gì chỉ mấy con ngựa của hắn nghe được, quay người và bước lại từng bước cân nhắc.</p><p>“Mày đã đi Mexico hả Jack?” Chính là mảnh đất Mexico. Hắn đã nghe chuyện. Bây giờ hắn cắt rào, xâm nhập vào vùng - bắn - bỏ.</p><p>“Ừ, tao có đi. Có cái đếch gì không?” Gồng mình chờ nó suốt bao nhiêu năm và nay nó đến, trễ và bất ngờ.</p><p>“Tao phải nói với mày cái này một lần, Jack, và tao hổng nói giỡn. Cái tao không biết,” Ennis nói, “tất cả những thứ tao không biết thì thôi, nếu tao tình cờ biết ra thì mày chết.”</p><p>“Thử nghe cái này coi”, Jack nói, “và tao sẽ nói chỉ một lần. Cho mày biết, mình có thể sống chung cuộc sống hạnh phúc, một cuộc sống hạnh phúc khốn khiếp. Mày không chịu, Ennis, vì vậy bây giờ mình chỉ có Núi Brokeback. Mọi thứ xây trên đó. Tất cả mình chỉ có thế, hỡi ơi, vậy thôi, vì vậy tao mong mày biết điều đó nếu mày không bao giờ biết hết mọi thứ. Đếm xem được vài ba lần mình gặp nhau trong hai mươi năm. Đo xem mày kiềm chế tao cỡ nào, rồi hỏi tao về chuyện Mexico, rồi nói mày sẽ giết tao vì tao cần mà gần như không bao giờ có. Mày đếch biết là nó tệ ra sao. Tao không phải là mày. Tao đâu có thể chịu mỗi năm một, hai lần làm tình ở tuốt trên cao. Mày quá đáng đối với tao, Ennis, đồ chó đẻ điếm đàng. Ước gì tao biết cách bỏ mày.”</p><p>Như những vầng hơi nước bát ngát từ các suối nước nóng trong mùa đông, những điều không nói đã bao năm và nay không thể nói - thú nhận, phát biểu, hổ thẹn, tội lỗi, sợ hãi - dâng lên xung quanh họ. Ennis đứng như đau nhói tim, mặt tái xám, nhăn nhúm và hằn sâu, mắt nhắm chặt, nắm tay siết, khuỵu chân, quỳ gối xuống đất…” (Trích Núi Brokeback)</p> </div>
